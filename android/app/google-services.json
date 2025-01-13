@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "354351947414",
+    "firebase_url": "https://smart-solar-4eeaf-default-rtdb.firebaseio.com",
+    "project_id": "smart-solar-4eeaf",
+    "storage_bucket": "smart-solar-4eeaf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354351947414:android:154105b00618bae496ecb7",
+        "android_client_info": {
+          "package_name": "com.example.smart_solar_sunflower"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDak62TA2lTZzlJwrjYaF2Pli1gflj7kxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
